@@ -4,6 +4,6 @@ if(s.isalpha())==True:
     if(s.lower() in v):
         print("Vowel")
     else:
-        print("Constant")
+        print("Consonant")
 else:
     print("Invalid")
