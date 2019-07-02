@@ -1,5 +1,4 @@
-print("To find whether the given number is +ve,-ve or neutral")
-x=int(input("Enter the number:"))
+x=int(input())
 if (x>0):
       print("postive")
 elif (x<0):
