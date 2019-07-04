@@ -4,7 +4,6 @@ while temp>0:
     r=temp%10
     sum=0
     sum=sum+r**3
-    print(sum)
     temp=temp/10
 if temp==sum:
     print("yes")
