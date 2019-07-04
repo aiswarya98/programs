@@ -1,3 +1,3 @@
-number,a,diff=map(int,input().split())
-sum=number*(2*a+diff*(number-1))/2
-print(sum)
+numb,b,dif=map(int,input().split())
+summ = num*(2*b+dif*(num-1))/2
+print(summ)
