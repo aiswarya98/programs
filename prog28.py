@@ -1,5 +1,4 @@
 number=int(input())
 lists=list(map(int,input().split()))
-for i in range(len(lists)):
-    print(i, end=' ')
-    print(lists[i])
+for i in range(number):
+    print(lists[i],i)
