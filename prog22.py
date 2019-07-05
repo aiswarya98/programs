@@ -1,4 +1,4 @@
-list=[]
+n=[]
 number=int(input())
 for i in range(number):
     n=map(int,input().split())
