@@ -1,5 +1,5 @@
 n=int(input())
-d=0
+d=1
 b=1
 count=0
 while(count<n):
