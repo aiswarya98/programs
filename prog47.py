@@ -1,2 +1,2 @@
-x=input()
-print(len(x))
+numericdigit=input()
+print(len(numericdigit))
