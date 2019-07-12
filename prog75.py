@@ -1,2 +1,2 @@
-p=int(input())
-print(p*2)
+numberpower=int(input())
+print(numberpower*2)
