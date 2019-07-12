@@ -1,2 +1,2 @@
-word=input()
-print(word)
+wordkata=input()
+print(wordkata)
