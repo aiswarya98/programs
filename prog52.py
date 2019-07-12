@@ -1,5 +1,6 @@
 powernumber=int(input())
-if(powernumber and powernumber-1):
+b=powernumber & powernumber-1
+if(b==0):
     print("yes")
 else:
     print("no")
