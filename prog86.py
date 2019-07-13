@@ -1,3 +1,3 @@
 x,y=map(int,input().split())
-z=y-z
+z=y-x
 print(z)
