@@ -1,2 +1,2 @@
-string=input()
-print(string[::-1])
+sring123=input()
+print(string123[::-1])
