@@ -1,2 +1,2 @@
-sk1=input()
-print(sk1.title())
+sentence123=input()
+print(sentence123.title())
