@@ -1,2 +1,2 @@
-x123=input()
-print(x123[::-1])
+x1234=input()
+print(x1234[::-1])
