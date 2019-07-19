@@ -5,5 +5,5 @@ for num in range(x,y):
            if(num%i==0):
                break
            else:
-              print(num,end=' ')
+              print(len(num))
               break
