@@ -4,7 +4,7 @@ t=[]
 n=['a','a','b','i','k','l']
 for j in range (0,s):
     t.append(input())
-for j in int:
+for j in t:
     f=sorted(j)
     if(n==f):
         c=c+1
