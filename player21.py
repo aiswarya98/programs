@@ -5,6 +5,5 @@ for i in range(2,n):
         b.append(i)
         n=n//i
 a=sorted(b)
-for i in b:
-    print(a)
+print(*a) 
     
