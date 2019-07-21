@@ -6,4 +6,4 @@ for i in x:
     else:
         l.append(i.lower())
 for i in l:
-    print(i,end=' ')
+    print(i,end='')
