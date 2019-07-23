@@ -10,8 +10,8 @@ def check(s):
             if((len(stack)>0) and (opens[pos]==stack[len(stack)-1])):
                stack.pop()
             else:
-               return "Unbalanced"
+               return "no"
         if len(stack)==0:
-               return "Balance"
+               return "yes"
 string=input()
 print(check(string))
