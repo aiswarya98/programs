@@ -7,8 +7,9 @@ def isPowerOfTwo(n):
             n = n // 2
               
     return True
-   
-if(isPowerOfTwo(31)): 
+
+n=int(input())
+if(isPowerOfTwo(n)): 
     print('Yes') 
 else: 
     print('No') 
